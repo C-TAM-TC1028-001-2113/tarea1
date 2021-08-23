@@ -6,14 +6,15 @@ Modifica el programa que se encuentra en la carpeta `src` que se llama `exercise
 
 ```python
 def main():
-    #escribe tu código abajo de esta línea
+    # escribe tu código abajo de esta línea
     pass
+
 
 if __name__ == '__main__':
     main()
 ```
 
-La línea `#escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
+La línea `# escribe tu código abajo de esta línea` es un comentario, el programa la va a ignorar al ejecutarse.
 
 Modifica el programa para que haga lo siguiente:
 Realiza un programa que reciba las coordenadas de dos puntos y que calcule la pendiente de la recta que une esos dos puntos. 
